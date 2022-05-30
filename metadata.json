@@ -1,0 +1,16 @@
+{
+  "data": {
+    "creators": [
+      {
+        "address": "3mfXiBBCjH2YmYENhiJtwoHuzWCNzS2gYkZKgjfNFVje",
+        "verified": 1,
+        "share": 0
+      },
+      {
+        "address": "9URcYzwpdWcaLCtBdNTWAwxyuW4tbac21NUwsmVZRAe9",
+        "verified": 0,
+        "share": 100
+      }
+    ]
+  }
+}
